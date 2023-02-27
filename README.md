@@ -1,11 +1,25 @@
-![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
-<h1 align="center">Hi 👋, I'm Kristiyan Petsanov</h1>
-<h3 align="center">Coding is the thing I like the most... I guess.</h3>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://github.com/krisdevbg" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@krisdevbg-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/kristiyan-petsanov-82ba23252" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-    </p>
+    <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript">
+    <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python">
+    <img src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus">
+    <img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5">
+    <img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3">
+    <img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/chart.js-000000?style=for-the-badge&logo=chart.js">
+    <img src="https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=SASS">
+    <img src="https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap">
+    <img src="https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django">
+    <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi">
+    <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-000000?style=for-the-badge&logo=microsoft%20sql%20server">
+    <img src="https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite">
+</p>
